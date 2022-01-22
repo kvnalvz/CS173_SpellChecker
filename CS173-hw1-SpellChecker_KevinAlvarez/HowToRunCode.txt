@@ -1,0 +1,11 @@
+g++ -std=c++11 cs173-hw1.cpp -o cs173-hw1
+
+./cs173-hw1
+
+
+
+cs173-hw1-SpellChecker_KevinAlvarez folder contains:
+ - source file (cs173-hw1.cpp)
+ - input (mobydick-copy.txt)
+ - dictionary (words-linux-copy)
+ - "How to run" txt file
